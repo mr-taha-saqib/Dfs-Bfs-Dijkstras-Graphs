@@ -1,1 +1,1 @@
-Dfs, Bfs, Dijkstras Graphs
+Dfs, Bfs, Dijkstras Graphs Task
